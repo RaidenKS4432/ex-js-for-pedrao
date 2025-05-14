@@ -78,3 +78,13 @@
 // default:
 //     console.log(' nao e xadrez e dama');    
 // }
+// Escreva um código que defina três números em variáveis e retorne true se pelo menos uma das três for par. Caso contrário, o código deve retornar false. Faça esse exercício utilizando somente um if.
+// const number1 = 5;
+// const number2 = 6;
+// const number3 = 8;
+// if (number1 % 2 === 0 || number2 % 2 === 0 || number3 % 2 === 0) {
+//     console.log(true);
+// } else {
+//     console.log(false);
+// }
+// Escreva um código que recebe um número e retorne true se esse número for primo e false caso não for.

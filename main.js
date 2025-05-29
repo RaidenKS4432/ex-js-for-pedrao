@@ -88,3 +88,11 @@
 //     console.log(false);
 // }
 // Escreva um código que recebe um número e retorne true se esse número for primo e false caso não for.
+// const limit = 19;
+// let isPrimeNumber = true;
+// for (let i = 2; i < limit; i += 1) {
+//     if (limit % i === 0) {
+//         isPrimeNumber = false;
+//     }
+// }
+// console.log(isPrimeNumber);
